@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstMVVM</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+</resources>
